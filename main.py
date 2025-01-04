@@ -3,7 +3,7 @@ from user import User
 
 def main():
     library = Library()
-    user = User(name="John Doe")
+    user = User(name="John Do")
 
     # Adding some books to the library
     library.add_book("The Great Gatsby", "F. Scott Fitzgerald", 3)
